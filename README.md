@@ -1,4 +1,4 @@
-XMRig built with gcc-7.4.0 for old rPI 1/2
+XMRig built with gcc-7.4.0 for old rPIs 1/2
 
 XMRig is a high performance Monero (XMR) CPU miner. Originally based on cpuminer-multi and completely rewritten from scratch on C++.
 These are the CPU-mining version binaries for armv6/v7.
