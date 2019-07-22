@@ -4,6 +4,7 @@ XMRig is a high performance Monero (XMR) CPU miner. Originally based on cpuminer
 These are the CPU-mining binaries for armv6/v7.
 
 armv6 will be uploaded shortly.
+This also uses some binaries from https://sourceforge.net/projects/raspberry-pi-cross-compilers/files/
 
 None of this is my work. Just thought I'd upload for others.
 Source:
